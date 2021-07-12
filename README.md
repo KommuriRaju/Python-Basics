@@ -1,2 +1,2 @@
-# Python-Basics---Numpy
-The notebook I created for learning Numpy.
+# Python-Basics
+The notebook I created for learning python.
